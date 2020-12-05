@@ -38,6 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Redis Nodejs Modular Connection](https://kumarnwb.medium.com/redis-nodejs-modular-connection-44093eb1c42b)
+
 - <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kumarnwb.medium.com/)
