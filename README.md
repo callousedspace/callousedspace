@@ -39,10 +39,7 @@
 <br />
 <br />
 
----
 
-
----
 
 ### 📕 Latest Blog Posts
 
@@ -56,7 +53,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary> Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14]() in [callousedspace/callousedspace](https://github.com/callousedspace)
